@@ -2,3 +2,4 @@ hello
 
 Using pull command
 new changed
+br logs
